@@ -16,6 +16,7 @@ The amount of time the script will pause between likes
 Select which instagram user's page to like
 How many users to like in one session
 
+### Demo*:
+![](https://github.com/chrispfchung/Instagram-AutoLiker/blob/master/demo.gif)
 
-
-
+*Script runs double the speed without screen recording
