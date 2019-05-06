@@ -11,7 +11,7 @@ Step by step I wrote several functions that allowed you to open Instagram pages 
 ## About
 The instaLikeScript is flexible to change. You may customize:
 
-+ How many photos to like before stopping \
+\+ How many photos to like before stopping \
 + Which hashtags to like \
 + The amount of hashtags to like in one session \
 + The amount of time the script will pause between likes \
